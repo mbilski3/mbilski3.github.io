@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A simple example</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css"/>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js"></script>
+    <style>
+    #panorama {
+        width: 600px;
+        height: 400px;
+    }
+    </style>
+</head>
+<body>
+
+<div id="panorama"></div>
+<script>
+pannellum.viewer('panorama', {
+    "type": "equirectangular",
+    "panorama": "https://lh3.googleusercontent.com/pw/AL9nZEWmut9dYM1hhzzfjaLF4zO9-bc0w0YLM9QY1cw4Ffq2B1aAuLt1ObxrnCCiuVX3rnoMK8oji95KpNC66iPKtFxSoFPomy3jze7B9Mm5PU0ecG2wzmuN3i_tvnS5I8XChPD6-8i3gMDmkgB9Ka5HwEZY8w=w3000-h1500-no"
+});
+</script>
+
+</body>
+</html>
