@@ -1,27 +1,52 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A simple example</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css"/>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js"></script>
+    <title>Mateusz | Personal Page</title>
     <style>
-    #panorama {
-        width: 600px;
-        height: 400px;
-    }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            font-size: 2.5rem;
+        }
+        p {
+            font-size: 1.2rem;
+            margin-top: 10px;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
     </style>
 </head>
 <body>
-
-<div id="panorama"></div>
-<script>
-pannellum.viewer('panorama', {
-    "type": "equirectangular",
-    "panorama": "dji_export_1660575434317.jpg"
-});
-</script>
-
+    <div class="container">
+        <h1>Hi, I'm Mateusz!</h1>
+        <p>I live in Zakrzew and love technology and programming.</p>
+        <p>Welcome to my personal GitHub Pages site!</p>
+        <div class="footer">&copy; 2025 Mateusz | All rights reserved.</div>
+    </div>
 </body>
 </html>
