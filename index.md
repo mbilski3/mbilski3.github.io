@@ -71,8 +71,8 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 ---
 
 ### EDUCATION
-* **Bachelor’s Degree in Computer Science** | Marie Skłodowska-Curie University, Lublin.
-* **Applied Computer Science (Postgraduate studies)** | University of Economics, Cracow.
+* **Applied Computer Science (Postgraduate studies)**, University of Economics, Cracow.
+* **Bachelor’s Degree in Computer Science**, Marie Skłodowska-Curie University, Lublin.
 
 ---
 
