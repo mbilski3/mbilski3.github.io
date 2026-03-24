@@ -14,7 +14,7 @@ title: Mateusz Bilski | Senior Product Engineer
 ---
 
 ### PROFESSIONAL SUMMARY
-Senior Product Engineer with 13 years of experience in software development. Expert in the Ruby on Rails ecosystem, specializing in building end-to-end web applications, designing distributed systems, and leading technical initiatives from concept to production. Skilled in bridging technical architecture with business goals to deliver scalable, high-performance software. Experienced in managing cloud infrastructure (AWS) and mentoring engineering teams.
+Senior Product Engineer with 13 years of experience in software development. Expert in the Ruby on Rails ecosystem, specializing in building end-to-end web applications, designing distributed systems, and leading technical initiatives from concept to production. Skilled in bridging technical architecture with business goals to deliver scalable, high-performance software. Experienced in managing cloud infrastructure (AWS) and mentoring engineering teams. Actively leveraging AI-powered tools and workflows to enhance development efficiency, code quality, and problem-solving processes.
 
 ---
 
@@ -83,7 +83,8 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 ---
 
 ### HOBBIES
-Cycling, baking pizza, filmmaking, snowboarding, wakeboarding, trampoline jumping, board games, 3D printing, smart houses, robotics, new technologies, sudoku, piano playing.
+
+Cycling; artisanal baking; filmmaking; board sports (snowboarding, wakeboarding); technology-driven hobbies (3D printing, smart home systems, robotics); emerging technologies; logic puzzles; piano.
 
 ---
 
