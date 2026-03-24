@@ -83,7 +83,7 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 ---
 
 ### HOBBIES
-Cycling, baking pizza, filmmaking, snowboarding, wakeboarding, trampoline jumping, board games, 3D printing, smart houses, robotics, new technologies, sudoku, and piano playing.
+Cycling, baking pizza, filmmaking, snowboarding, wakeboarding, trampoline jumping, board games, 3D printing, smart houses, robotics, new technologies, sudoku, piano playing.
 
 ---
 
