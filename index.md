@@ -8,7 +8,7 @@ title: Mateusz Bilski | Senior Product Engineer
 
 📍 Zakrzew 57, 26-652 Zakrzew, Poland  
 📞 +48 500 452 646  
-✉️ mbilski3@gmail.com
+✉️ mbilski3@gmail.com   
 ℹ️ [LinkedIn](https://www.linkedin.com/in/mateusz-bilski-b478889a/)
 
 ---
