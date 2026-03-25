@@ -14,7 +14,7 @@ title: Mateusz Bilski | Senior Product Engineer
 ---
 
 ### PROFESSIONAL SUMMARY
-Senior Product Engineer with 13 years of experience in software development. Expert in the Ruby on Rails ecosystem, specializing in building end-to-end web applications, designing distributed systems, and leading technical initiatives from concept to production. Skilled in bridging technical architecture with business goals to deliver scalable, high-performance software. Experienced in managing cloud infrastructure (AWS) and mentoring engineering teams. Actively leveraging AI-powered tools and workflows to enhance development efficiency, code quality, and problem-solving processes.
+Senior Product Engineer with 13 years of experience in software development. Expert in the Ruby on Rails ecosystem, specializing in building end-to-end web applications, designing distributed systems, and leading technical initiatives from concept to production. Skilled in bridging technical architecture with business goals to deliver scalable, high-performance software. Experienced in managing cloud infrastructure (AWS) and mentoring engineering teams. Actively leveraging AI-powered tools (Gemini, Cursor, Copilot) and workflows to enhance development efficiency, code quality, and problem-solving processes.
 
 ---
 
@@ -65,6 +65,7 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 ### TECHNICAL SKILLS
 * **Core:** Ruby on Rails, Ruby, SQL (PostgreSQL, Oracle, MySQL), Redis.io, Sidekiq.
 * **Infrastructure:** AWS, Terraform, Docker, CI/CD (CircleCI, GitHub Actions), Elasticsearch.
+* **AI:** Gemini, Cursor, Copilot.
 * **Frontend:** Hotwire (Turbo, Stimulus), JavaScript (React, TypeScript), HTML5/CSS3.
 * **Other:** Java (Oracle Certified), Android, Crystal lang, Git, LavinMQ, AI prompting.
 
