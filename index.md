@@ -28,6 +28,13 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 * **Infrastructure as Code:** Managing CI/CD and infrastructure using AWS, Terraform, and GitHub Actions.
 * **Performance:** Optimizing PostgreSQL schemas and query performance for high-load environments.
 
+**Visuality** | Warsaw/Remote, Poland | **05.2023 – 03.2024**
+*Senior Ruby on Rails Developer*
+* **Legacy Modernization:** Maintained and modernized complex legacy codebases, upgrading them to current technology standards.
+* **Technical Debt Management:** Identified and systematically reduced technical debt to improve overall code quality and maintainability.
+* **Product Collaboration:** Collaborated with Product Management and UX teams on scope, timelines, and strategic product decisions.
+* **Deployment Automation:** Automated and managed deployment processes utilizing AWS services for scalable solutions.
+
 **Beatport LLC** | Remote | **03.2020 – 02.2023**
 *Ruby Lead Engineer*
 * **Team Leadership:** Organized and led a cross-functional team of developers and testers to ensure high-quality delivery.
