@@ -88,12 +88,20 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 **Adescosoftware** | Lublin, Poland | **06.2013 – 02.2015**
 *Ruby on Rails Software Developer*
 * **E-commerce & B2B:** Developed full-stack applications using RoR, JavaScript, and modern web technologies.
+* **Search Engine implementation:** Designed and deployed an advanced Elasticsearch search engine for the automotive sector, efficiently indexing and querying over 10 million spare part SKUs with ultra-low latency.
+* **ERP integration:** Engineered an integration tool to connect an enterprise-grade ERP system with a Rails application, streamlining complex business workflows and data exchange.
+* **Fullstack role:** Developed dynamic frontend features in Backbone.js, ensuring pixel-perfect implementation based on technical Figma mockups.
+
+**Tech Stack:**
+*RoR, Ruby, Oracle SQL, Elasticsearch, Redis, Sidekiq, Backbone JS, HTML5, Jenkins, RSpec*
 
 **Lublin University of Technology** | Lublin, Poland | **06.2012 – 10.2014**
 *Research Project Member*
 * **Specialized Software:** Created applications for the aviation industry and implemented mathematical algorithms.
 * **Environment Setup:** Configured server environments (CentOS, Apache, PostgreSQL) and managed deployments.
 
+**Tech Stack:**
+*Ruby, Sinatra, PostgreSQL, Elasticsearch, Apache*
 ---
 
 ### TECHNICAL SKILLS
