@@ -102,6 +102,8 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 
 **Tech Stack:**
 *Ruby, Sinatra, PostgreSQL, Elasticsearch, Apache*
+
+
 ---
 
 ### TECHNICAL SKILLS
