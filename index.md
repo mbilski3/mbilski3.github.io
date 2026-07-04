@@ -36,32 +36,54 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 **Visuality** | Warsaw/Remote, Poland | **05.2023 – 03.2024**
 *Senior Ruby on Rails Developer*
 * **Legacy Modernization:** Maintained and modernized complex legacy codebases, upgrading them to current technology standards.
+* **Fullstack development:** Leveraged modern tech stacks including Hotwire, Turbo, and Stimulus to build interactive features such as real-time broadcasting Kanban boards.
 * **Technical Debt Management:** Identified and systematically reduced technical debt to improve overall code quality and maintainability.
 * **Product Collaboration:** Collaborated with Product Management and UX teams on scope, timelines, and strategic product decisions.
 * **Deployment Automation:** Automated and managed deployment processes utilizing AWS services for scalable solutions.
 
+**Tech Stack:**
+*RoR 7, 8, Ruby ~3, PostgreSQL, Redis, Sidekiq TypeScript, Hotwire, Stimulus, Turbo, Heroku, Github Actions, RSpec, Docker. AI tools: Copilot*
+
 **Beatport LLC** | Remote | **03.2020 – 02.2023**
 *Ruby Lead Engineer*
 * **Team Leadership:** Organized and led a cross-functional team of developers and testers to ensure high-quality delivery.
+* **Core functionality hands - on:** Successfully rewrote the core checkout functionality in Vue.js based on Figma designs, directly driving a 70% increase in conversion rate.
+* **High traffic application:** Prepared a high-performance e-commerce application within a year for high-scale retail events like Black Friday, optimizing infrastructure and code to reliably sustain 2 million sessions per day.
 * **Strategic Vision:** Defined project vision and selected appropriate technologies to meet global scaling requirements.
 * **Cloud Solutions:** Utilized AWS services to build and maintain scalable, secure web applications.
 * **Standard Setting:** Established development standards and optimized database performance across the organization.
 
+**Tech Stack:**
+*RoR, Ruby, MySQL, Redis, Sidekiq, TypeScript, React, Vue, HTML5, AWS, Jenkins, RSpec, Docker, Solr*
+
 **Codete** | Remote | **01.2019 – 02.2020**
 *Senior Ruby on Rails Developer*
 * **Microservices at Scale:** Contributed to a complex architecture spanning over 50 interconnected applications.
+* **Multi - tenancy isolation:** Designed and maintained multi-tenancy features, ensuring strict data isolation, secure tenant provisioning, and optimal resource utilization across clients.
 * **Deployment Automation:** Leveraged AWS services and maintained automated deployment scripts to streamline releases.
 * **Stakeholder Management:** Collaborated with international clients and Product/UX teams on roadmap and product decisions.
 
+**Tech Stack:**
+*RoR, Ruby, Sinatra, MySQL, Redis, Sidekiq, React, HTML5, AWS, MiniTest*
+
 **Appriss Sp. z o.o.** | Warsaw, Poland | **01.2018 – 12.2018**
 *Senior Ruby on Rails Developer*
+* **Large - scale data:** Engineered a medical fraud detection system designed for US state jurisdictions (multi-tenancy), handling large-scale asynchronous data processing and ingestion from heterogeneous source systems.
 * **System Design:** Designed system architecture and established long-term development standards.
 * **Security & Compliance:** Ensured application security and followed industry best practices for data protection.
+
+**Tech Stack:**
+*RoR, Ruby, MySQL, Redis, Sidekiq, HTML5, AWS, Jenkins, RSpec, Docker*
 
 **Transition Technologies - MS** | Poland | **02.2015 – 12.2017**
 *Ruby on Rails Developer*
 * **Full-Stack Development:** Developed web applications using RoR and Sinatra, implementing complex business logic.
+* **Corporate - wide application:** Architected an internal startup project functioning as a corporate App Store (~200K users/devices), managing the full lifecycle of iOS applications including automated building pipelines, code certification, and secure distribution.
 * **Technical Quality:** Optimized database design and performance while maintaining automated test suites.
+* **API gateway integrations:** Integrated corporate authentication systems / enterprise authentication (covers SSO, Active Directory, SAML, OAuth, etc.)
+
+**Tech Stack:**
+*RoR, Ruby, Sinatra, MySQL, Redis, Sidekiq, Angular, HTML5, AWS, Jenkins, RSpec, Docker*
 
 **Adescosoftware** | Lublin, Poland | **06.2013 – 02.2015**
 *Ruby on Rails Software Developer*
