@@ -23,10 +23,15 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 **Alterdata** | Warsaw/Remote, Poland | **04.2024 – Present**
 *Senior Product Engineer (RoR)*
 * **End-to-End Ownership:** Leading projects from the first line of code to production release, ensuring alignment with business goals.
+* **Optimization:** Architected and developed a core scheduling algorithm optimizing content playlist generation for DOOH media. Core optimizations of execution time from 8 hours to under 20 minutes.
 * **Architectural Leadership:** Designing robust system architectures and making high-level technical decisions.
 * **API Design:** Designing and implementing robust RESTful and GraphQL APIs for complex data ecosystems.
+* **CQRS scaling:** Optimized performance by segregating read and write operations to handle complex data processing efficiently (LavinMQ).
 * **Infrastructure as Code:** Managing CI/CD and infrastructure using AWS, Terraform, and GitHub Actions.
-* **Performance:** Optimizing PostgreSQL schemas and query performance for high-load environments.
+* **Performance:** Optimized relational database schemas and query performance for high-load environments by offloading complex computations to the database using advanced Common Table Expressions (CTEs).
+
+**Tech Stack:**
+*Ruby on Rails 8, Ruby 3.3.4, PostgreSQL 18, Redis, Sidekiq, Terrafform, AWS, RSpec, Doker, CircleCI, LavinMQ, AI tools: Cursor, Copilot*
 
 **Visuality** | Warsaw/Remote, Poland | **05.2023 – 03.2024**
 *Senior Ruby on Rails Developer*
