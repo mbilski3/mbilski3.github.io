@@ -20,7 +20,7 @@ Senior Product Engineer with 13 years of experience in software development. Exp
 
 ### EXPERIENCE
 
-**Alterdata** | Warsaw/Remote, Poland | **04.2024 – Present**
+**Alterdata** | Warsaw/Remote, Poland | **04.2024 – 05.2026**
 *Senior Product Engineer (RoR)*
 * **End-to-End Ownership:** Leading projects from the first line of code to production release, ensuring alignment with business goals.
 * **Optimization:** Architected and developed a core scheduling algorithm optimizing content playlist generation for DOOH media. Core optimizations of execution time from 8 hours to under 20 minutes.
